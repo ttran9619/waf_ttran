@@ -1,0 +1,9 @@
+BasedOnStyle: Google
+BreakBeforeBraces: Allman
+IndentWidth: 4
+SpaceBeforeParens: Never
+SpacesInParentheses: true
+Cpp11BracedListStyle: true
+BinPackParameters: true
+BreakConstructorInitializersBeforeComma: true
+AccessModifierOffset: -4
